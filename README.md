@@ -37,6 +37,9 @@ Technologies used in the project developmemt:
     
 ![image](https://user-images.githubusercontent.com/96259745/224379906-e864f3f5-db32-4360-b63f-ddb278faa03e.png) ![image](https://user-images.githubusercontent.com/96259745/224380112-ce8b6f51-a944-4a4d-b4fe-23ef1aca8d07.png)
 
+<h2>Web layout<h2/>
+
+![image](https://user-images.githubusercontent.com/96259745/224381216-90fcd2e7-3b5f-4cc2-9cf3-5de893f549f2.png) ![image](https://user-images.githubusercontent.com/96259745/224381306-9e8ebbed-983c-48a6-90ad-8dfc94d10f2a.png)
 
 ## Getting Started
 
