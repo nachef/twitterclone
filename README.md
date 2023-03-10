@@ -26,7 +26,7 @@ This project was developed with ViteJS and consists of simple cloning of the Twi
 
 Technologies used in the project developmemt:
 
-- [ViteJS] (https://vitejs.dev/)
+- [ViteJS](https://vitejs.dev/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [React-Dom](https://pt-br.reactjs.org/docs/react-dom.html)
