@@ -33,7 +33,10 @@ Technologies used in the project developmemt:
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 
+<h2>Mobile layout<h2/>
 ![image](https://user-images.githubusercontent.com/96259745/224379906-e864f3f5-db32-4360-b63f-ddb278faa03e.png)
+![image](https://user-images.githubusercontent.com/96259745/224380112-ce8b6f51-a944-4a4d-b4fe-23ef1aca8d07.png)
+
 
 ## Getting Started
 
