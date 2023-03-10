@@ -22,7 +22,7 @@
 
 ## Description
 
-This project was developed with ViteJS and consists of simple cloning of the Twitter interface. It is a SPA application (Single Page Application) with a screen of tweets posted and a screen to reply a Tweet.
+This project was developed with ViteJS during a RocketSeat "Masterclass" and consists of simple cloning of the Twitter interface. It is a SPA application (Single Page Application) with a screen of tweets posted and a screen to reply a Tweet.
 
 Technologies used in the project developmemt:
 
